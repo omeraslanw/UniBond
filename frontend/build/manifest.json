@@ -1,0 +1,22 @@
+{
+  "short_name": "UniBond",
+  "name": "UniBond Kampüs Platformu",
+  "icons": [
+    {
+      "src": "mylogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "mylogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "description": "Üniversite öğrencileri için sosyal ve kariyer platformu"
+}
